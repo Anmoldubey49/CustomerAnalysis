@@ -1,0 +1,18 @@
+Based on above information we can divide customer into 4 parts:-
+    Highly Active Customer :- These customers belong to cluster one.
+    Moderately high Active Customer :- These customers belong to cluster two.
+    Moderately Active Customer :- These customers belong to cluster third.
+    Least Active Customer :- These customers belong to cluster third.
+
+Characteristics of Highly Active Customer
+    In terms of Education:-
+        Highly Active Customer are from PG background
+    In terms of Marital_status:-
+        Number of people in relationship are approx. two times of single people
+    In terms of Income:-
+        Income of Highly active customer are little less as compare to Moderately High active customer.
+    In terms of Kids:-
+        Highly active customer have more number of children as compare to other customer ( avg. of 1 child ).
+    In terms of Expenses:-
+        Expenses of Highly Active customer are less as compare to moderate.
+        These customer spent avg. of approx. 100-200 unit money
